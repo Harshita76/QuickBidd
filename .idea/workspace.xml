@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="210e0620-45c0-4e4a-81aa-439ffd885e28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main-backend/src/main/java/com/quickbidd/main/Model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="210e0620-45c0-4e4a-81aa-439ffd885e28" name="Default Changelist" comment="added user">
+      <change afterPath="$PROJECT_DIR$/main-backend/src/main/java/com/quickbidd/main/Model/Bidding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-backend/src/main/java/com/quickbidd/main/Model/Buyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-backend/src/main/java/com/quickbidd/main/Model/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-backend/src/main/java/com/quickbidd/main/Model/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-backend/src/main/java/com/quickbidd/main/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/main-backend/src/main/java/com/quickbidd/main/Model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699089885587</updated>
     </task>
+    <task id="LOCAL-00001" summary="added user">
+      <option name="closed" value="true" />
+      <created>1699382479507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699382479507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added user" />
+    <option name="LAST_COMMIT_MESSAGE" value="added user" />
   </component>
 </project>

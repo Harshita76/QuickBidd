@@ -23,7 +23,7 @@ public class User {
         this.email = email;
     }
 
-    public void setUser_id(long user_id) {
+    public void set_id(long user_id) {
         this.user_id = user_id;
     }
 
