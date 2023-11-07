@@ -9,18 +9,33 @@ import java.sql.Timestamp;
 
 @Entity
 public class Buyer {
-    private long buyer_id;
-    private string username;
 
-    public Seller(string username){
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private long buyer_id;
+    private String username;
+
+    public Buyer(long buyer_id, String username) {
+        this.buyer_id = buyer_id;
         this.username = username;
     }
 
-    public long get_id() {
+    public Buyer() {
+    }
+
+    public long getBuyer_id() {
         return buyer_id;
     }
 
-    public string getUsername() {
+    public void setBuyer_id(long buyer_id) {
+        this.buyer_id = buyer_id;
+    }
+
+    public String getUsername() {
         return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
     }
 }
