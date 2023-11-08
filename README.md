@@ -1,6 +1,10 @@
 # QuickBidd
--BITS Object Oriented Programming Project
- -Adit Rastogi 
- -Amritansh
- -Harshita
- -Priyansh Agrawal
+
+Object Oriented Programming Project
+
+# Authors
+
+- Adit Rastogi
+- Amritansh
+- Priyansh Agrawal
+- Harshita
