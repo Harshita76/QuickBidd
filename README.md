@@ -1,6 +1,6 @@
 # QuickBidd
 
-Object Oriented Programming Project
+Object Oriented Programming(OOP) Project
 
 # Authors
 
